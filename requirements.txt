@@ -1,0 +1,5 @@
+# Dependencias del aplicativo (Tkinter viene incluido con Python)
+psycopg[binary]==3.3.8
+
+# Solo para generar el ejecutable
+pyinstaller==6.22.3
