@@ -1,4 +1,4 @@
-# Registro de Licitaciones de Servicios — TECNOSERVI S.R.L.
+# Registro de Licitaciones de Servicios 
 
 Aplicativo de escritorio que demuestra el funcionamiento de la base de datos
 `bd_licitaciones` (PostgreSQL 18). Permite registrar, modificar y eliminar los
